@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}ACKNOLEDGEMENT:}{1}
+\contentsline {section}{\numberline {2}PROCEDURE:}{2}
+\contentsline {section}{\numberline {3}ABSTRACT:}{2}
+\contentsline {section}{\numberline {4}INTRODUCTION:}{2}
+\contentsline {section}{\numberline {5}OBJECTIVES:}{2}
+\contentsline {subsection}{\numberline {5.1}Main objective:}{2}
+\contentsline {subsection}{\numberline {5.2}Specific objectives:}{3}
+\contentsline {section}{\numberline {6}FUNCTIONALITY AND SCREEN SHOTS:}{3}
+\contentsline {section}{\numberline {7}CHALLENGES:}{4}
+\contentsline {section}{\numberline {8}CONCLUSION:}{4}
